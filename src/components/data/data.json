@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "/images/Elite.jpg",
+    "imageBg": "/images/elite-bg.png",
+    "title": "Elite",
+    "type": "Korku",
+    "description": "Okullarının çökmesinden sonra, üç işçi sınıfı arkadaş Samuel, Nadia ve Christian'a İspanya'nın en seçkin özel okulu olan Las Encinas tarafından burs verilir. Burslar, okulun çöküşü için hatalı olan inşaat şirketi tarafından desteklenmektedir. Üç arkadaş başlangıçta zengin öğrenciler tarafından dışlanmıştır. Okul yılı ilerledikçe hayatları, yaşam tarzları, kızgınlık ve kıskançlık çatışması içinde geçmiştir. Polis sorgularının bir dizi ileri görüşlü sahnesiyle, izleyicilere karakterlerin Marina'nın cinayetine yol açan ilişkilerinin hikayeleri gösteriliyor."
+  },
+  {
+    "id": 2,
+    "image": "/images/russian-doll.jpg",
+    "imageBg": "/images/slide2b.webp",
+    "title": "Russian doll",
+    "type": "Bilim Kurgu ve Fantastik",
+    "description": "Nadia, sürekli ölmekte ve 36. doğum günü partisini tekrar yaşamaktadır. Gerçeküstü bir zaman döngüsünde sıkışıp kalmıştır ve fâni olduğu gerçeğiyle yüzleşmelidir."
+  },
+  {
+    "id": 3,
+    "image": "/images/orange.jpg",
+    "imageBg": "/images/slide3b.webp",
+    "title": "Orange is the new black",
+    "type": "Korku",
+    "description": "New York'ta yaşayan biseksüel kadın karakter Piper Chapman'ın (Taylor Schilling) etrafında gelişir. Piper on yıl önce üniversitedeyken tanıdığı bir uyuşturucu satıcısı olan kız arkadaşı Alex Vause (Laura Prepon) yüzünden 15 aylık hapis cezası alır. Planları altüst olan Piper, nişanlısı Larry Bloom (Jason Biggs) ile olan New York City'deki normal hayatını bırakarak, cezasını federal hapishanede çekmeye başlar. Piper, Alex'le aynı hapishaneye düşer. Bir müddet sonra Alex'le tekrar bir araya gelir ve hapishanedeki diğer mahkûmlarla baş etmeye çalışır."
+  },
+  {
+    "id": 4,
+    "image": "/images/freud.jpeg",
+    "imageBg": "/images/slide4b.webp",
+    "title": "Freud",
+    "type": "Bilim Kurgu ve Fantastik",
+    "description": "Freud Bilim Kurgu ve Fantastik"
+  },
+  {
+    "id": 5,
+    "image": "/images/Narcos.jpg",
+    "imageBg": "/images/slide5b.webp",
+    "title": "Narcos",
+    "type": "Bilim Kurgu ve Fantastik",
+    "description": "Elite Bilim Kurgu ve Fantastik"
+  },
+  {
+    "id": 6,
+    "image": "/images/merlin.webp",
+    "imageBg": "/images/slide6b.webp",
+    "title": "Merlin",
+    "type": "Korku",
+    "description": "1983 horrorr"
+  }
+]
