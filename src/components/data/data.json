@@ -46,5 +46,53 @@
     "title": "Merlin",
     "type": "Korku",
     "description": "1983 horrorr"
+  },
+  {
+    "id": 7,
+    "image": "/images/breaking-bad.jpg",
+    "imageBg": "/images/breaking-bg.png",
+    "title": "Breaking Bad",
+    "type": "Korku",
+    "description": "Breaking Bad, Vince Gilligan tarafından tasarlanmış ABD drama televizyon dizisidir. 50 yaşında lisede kimya öğretmeni olan Walter White (Bryan Cranston), maddi açıdan ailesinin gereksinimlerini karşılayabilmek için araba yıkamacısında ek iş yapmaktadır ancak bir süre sonra ileri derecede akciğer kanseri olduğunu ve çok kısa bir ömrünün kaldığını öğrenir. Dizide Walter White ailesine para bırakabilmek için uyuşturucu yaptığını bir rastlantı sonucu öğrendiği eski öğrencisi Jesse Pinkman (Aaron Paul) ile birlikte metamfetamin işine girer. Kimya konusunda çok başarılı işlere imza atmış öğretmen ile uyuşturucu piyasasını iyi bilen eski öğrencisi, yüksek kalitede ve saflıkta metamfetamin üreterek uyuşturucu ticaretine başlarlar. Şimdiye dek, namusum ve şerefim ile dürüst bir insan olarak yaşadım, ancak kanserden başka bir sonuç elde edemedim, şeklinde düşünen Walter White'ın bundan sonraki geleceği yaşanan olay örgüsüyle birlikte sadece kendisini ve ailesini değil, beraberinde tanıdığı tanımadığı herkesin geleceğini değiştirecektir. Breaking Bad Albuquerque, New Mexico'da çekilmiştir."
+  },
+  {
+    "id": 8,
+    "image": "/images/walking-dead.jpg",
+    "imageBg": "/images/slide6b.webp",
+    "title": "The Walking Dead",
+    "type": "Korku",
+    "description": "1983 horrorr"
+  },
+  {
+    "id": 9,
+    "image": "/images/papel.jpg",
+    "imageBg": "/images/slide6b.webp",
+    "title": "La Casa De Papel",
+    "type": "Korku",
+    "description": "1983 horrorr"
+  },
+  {
+    "id": 10,
+    "image": "/images/vis.jpg",
+    "imageBg": "/images/slide6b.webp",
+    "title": "Vis a Vis",
+    "type": "Bilim Kurgu ve Fantastik",
+    "description": "1983 horrorr"
+  },
+  {
+    "id": 11,
+    "image": "/images/things.jpg",
+    "imageBg": "/images/slide6b.webp",
+    "title": "Stranger Things",
+    "type": "Bilim Kurgu ve Fantastik",
+    "description": "1983 horrorr"
+  },
+  {
+    "id": 12,
+    "image": "/images/orphan.jpg",
+    "imageBg": "/images/slide6b.webp",
+    "title": "Orphan Black",
+    "type": "Bilim Kurgu ve Fantastik",
+    "description": "1983 horrorr"
   }
 ]
