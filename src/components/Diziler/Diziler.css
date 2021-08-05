@@ -1,4 +1,14 @@
 .nav {
   color: white;
+  margin-left: 3.5rem;
+  font-size: 25px;
+}
+.dropdown {
   margin-left: 2rem;
+  width: 150px;
+}
+
+option {
+  background: black;
+  color: white;
 }

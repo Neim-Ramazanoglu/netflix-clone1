@@ -12,13 +12,13 @@ function App() {
     <Router>
       <div className="app">
         <Logo />
-        <Link class="links" to="/home">
+        <Link className="links" to="/home">
           Ana Sayfa
         </Link>
-        <Link class="links" to="/diziler">
+        <Link className="links" to="/diziler">
           Diziler
         </Link>
-        <Link class="links" to="/filmler">
+        <Link className="links" to="/filmler">
           Filmler
         </Link>
 
